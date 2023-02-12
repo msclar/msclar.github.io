@@ -82,6 +82,7 @@ analytics:
 author:
   name             : "Melanie Sclar"
   avatar           : "profile.jpg"
+  bio              : ""
   location         : "Seattle, Washington"
   employer         : University of Washington
   googlescholar    : "https://scholar.google.com/citations?user=4uNPtZgAAAAJ"
