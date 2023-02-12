@@ -12,7 +12,7 @@ I am a second year PhD student in computer science at the University of Washingt
 
 See my [Google Scholar](https://scholar.google.com/citations?user=4uNPtZgAAAAJ&hl=en&oi=ao) for an updated list of publications.
 
----
+<br/><br/>
 
 ## Before the PhD program
 
