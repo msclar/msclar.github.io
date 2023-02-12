@@ -16,9 +16,9 @@ See my [Google Scholar](https://scholar.google.com/citations?user=4uNPtZgAAAAJ&h
 
 ## Before the PhD program
 
-I received my Bachelor's and Master's degree in Computer Science from the University of Buenos Aires, with a heavy focus in Mathematics. I did my Master's thesis in visual search modeling (oral presentation at SVRHM @ NeurIPS 2020, second highest scoring paper and recipient of the NVIDIA Diversity in AI Best Paper Award).
+I received my Bachelor's and Master's degree in Computer Science from the University of Buenos Aires, with a heavy focus in Mathematics. I did my Master's thesis in visual search modeling (**oral presentation at SVRHM @ NeurIPS 2020, second-highest scoring paper** and recipient of the NVIDIA Diversity in AI Best Paper Award).
 
-I was a Lead Machine Learning Engineer at [ASAPP](https://asapp.com), where I developed models to efficiently rank text in real-time. Before that, I was a Lead Data Scientist at BrightSector, developing different NLP models for [the largest e-commerce site in Latin America](https://en.wikipedia.org/wiki/MercadoLibre). I did two Software Engineer internships at Facebook, where I was granted two patents for my work in video stabilization (see [1](https://patents.google.com/patent/US10582211B2/en), [2](https://patents.google.com/patent/US10506248B2/en)).
+I was a **Lead Machine Learning Engineer at [ASAPP](https://asapp.com)**, where I developed models to efficiently rank text in real-time. Before that, I was a **Lead Data Scientist** at BrightSector, developing different NLP models for [the largest e-commerce site in Latin America](https://en.wikipedia.org/wiki/MercadoLibre). I did two Software Engineer internships at Facebook, where I was granted two patents for my work in video stabilization (see [1](https://patents.google.com/patent/US10582211B2/en), [2](https://patents.google.com/patent/US10506248B2/en)).
 
 I won several international **awards in mathematics and informatics** olympiads. Among them:
 - Latin American Champion and First to Solve Problem F award at the World Finals of the International Collegiate Programming Contest (see [press coverage in the front page of the largest newspaper in Argentina](https://www.clarin.com/sociedad/uba-programacion-mundial_0_SJvhWKYv7e.html))
