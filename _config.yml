@@ -82,11 +82,10 @@ analytics:
 author:
   name             : "Melanie Sclar"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Computer Science, researching in Natural Langauge Processing and Machine Learning, with experience in Cognitive Science research."
   location         : "Seattle, Washington"
   employer         : University of Washington
   googlescholar    : "https://scholar.google.com/citations?user=4uNPtZgAAAAJ"
-  email            : "msclar -at- cs.washington.edu"
+  email            : "msclar@cs.washington.edu"
   uri              :
   bitbucket        :
   codepen          :
