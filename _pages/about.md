@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a BSc + MSc in Computer Science from the University of Buenos Aires, with a heavy focus in Mathematics. I did my MSc thesis in visual search modeling (see arxiv, in submission).
+I am a second year PhD student in computer science at the University of Washington, advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/) and [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). My research area is natural language processing, and I am particularly interested developing algorithms for improving language models' reasoning performance. My current focus is in theory of mind reasoning tasks, where I previously did research for multi-agent reinforcement learning setups. I have also done research in efficient models for controllable text generation (in summarization).
 
-I am a Lead Machine Learning Engineer at [ASAPP](https://asapp.com), where I develop models to efficiently rank text in real-time. Before that, I was a Lead Data Scientist at BrightSector, developing different NLP models for [the largest e-commerce site in Latin America](https://en.wikipedia.org/wiki/MercadoLibre). I did two Software Engineer internships at Facebook, where I was granted two patents for my work in video stabilization (see [1](https://patents.google.com/patent/US10582211B2/en), [2](https://patents.google.com/patent/US10506248B2/en)).
+See my [Google Scholar](https://scholar.google.com/citations?user=4uNPtZgAAAAJ&hl=en&oi=ao) for an updated list of publications.
+
+### Before the PhD program
+
+I received a BSc + MSc in Computer Science from the University of Buenos Aires, with a heavy focus in Mathematics. I did my MSc thesis in visual search modeling (oral presentation at SVRHM @ NeurIPS 2020, 2nd highest scoring paper and recipient of the NVIDIA Diversity in AI Best Paper Award).
+
+I was a Lead Machine Learning Engineer at [ASAPP](https://asapp.com), where I developed models to efficiently rank text in real-time. Before that, I was a Lead Data Scientist at BrightSector, developing different NLP models for [the largest e-commerce site in Latin America](https://en.wikipedia.org/wiki/MercadoLibre). I did two Software Engineer internships at Facebook, where I was granted two patents for my work in video stabilization (see [1](https://patents.google.com/patent/US10582211B2/en), [2](https://patents.google.com/patent/US10506248B2/en)).
 
 I won several international **awards in mathematics and informatics** olympiads. Among them:
 - Latin American Champion and First to Solve Problem F award at the World Finals of the International Collegiate Programming Contest (see [press coverage in the front page of the largest newspaper in Argentina](https://www.clarin.com/sociedad/uba-programacion-mundial_0_SJvhWKYv7e.html))
@@ -23,7 +29,7 @@ I also won some **awards in machine learning** competitions at a national level:
 - first prize at the 2017 University of Buenos Aires' School of Informatics challenge (+150 teams competing)
 - second prize in the 2018 University of Buenos Aires' School of Informatics challenge
 
-I'm very grateful for the **scholarships** I received throughout my studies:
+I am very grateful for the **scholarships** I received throughout my studies:
 - *Scholarship - Award City of Buenos Aires*, awarded by the Government of the City of Buenos Aires to the top 25 students in the city
 - *Bicentennial Scholarship*, received from the National Argentinian Government
 
