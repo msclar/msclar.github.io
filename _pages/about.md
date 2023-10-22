@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in computer science at the University of Washington, advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/) and [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). My research area is natural language processing, and I am particularly interested developing algorithms for improving language models' reasoning performance. My current focus is in theory of mind reasoning tasks, where I previously did research for multi-agent reinforcement learning setups. I have also done research in efficient models for controllable text generation (in summarization).
+I am a third year PhD student in computer science at the University of Washington, advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/) and [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). My primary research topic is reasoning, with a dual focus: developing algorithms for improving language models' reasoning skills, and understanding the limitations of current models in reasoning tasks. I am particularly interested in theory of mind reasoning, where I did research for story comprehension setups and multi-agent reinforcement learning setups; and in accurately characterizing and quantifying models' skills. 
 
-See my [Google Scholar](https://scholar.google.com/citations?user=4uNPtZgAAAAJ&hl=en&oi=ao) for an updated list of publications.
+See my [Google Scholar](https://scholar.google.com/citations?user=4uNPtZgAAAAJ&hl=en&oi=ao) for an updated list of publications. Published works include Faith and Fate (NeurIPS 2023 Spotlight) and SymbolicToM (ACL 2023 Outstanding Paper Award).
 
 <br/>
 
