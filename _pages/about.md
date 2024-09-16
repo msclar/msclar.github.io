@@ -12,6 +12,8 @@ I am a third year PhD student in computer science at the University of Washingto
 
 See my [Google Scholar](https://scholar.google.com/citations?user=4uNPtZgAAAAJ&hl=en&oi=ao) for an updated list of publications. Published works include Faith and Fate (NeurIPS 2023 Spotlight) and SymbolicToM (ACL 2023 Outstanding Paper Award).
 
+See full-sized image [here](images/Sclar_Melanie_large.jpg).
+
 <br/>
 
 ## Before the PhD program
