@@ -8,15 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a CS PhD student at the University of Washington, advised by [Yejin Choi](https://homes.cs.washington.edu/~yejin/) and [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). I am also a visiting researcher at Fundamental AI Research (FAIR) Labs @ Meta, working with [Asli Celikyilmaz](http://asli.us/). My primary research topic is reasoning, with a dual focus: developing algorithms for improving language models' reasoning skills, and understanding the limitations of current models in reasoning tasks. I am particularly interested in theory of mind reasoning, where I did research for story comprehension setups and multi-agent reinforcement learning setups; and in accurately characterizing and quantifying models' skills. 
+**I am currently on the industry job market for 2025-2026!** I'm particularly interested in building reliable and socially-aware AI systems.
 
-See my [Google Scholar](https://scholar.google.com/citations?user=4uNPtZgAAAAJ&hl=en&oi=ao) for an updated list of publications. Published works include Faith and Fate (NeurIPS 2023 Spotlight) and SymbolicToM (ACL 2023 Outstanding Paper Award).
+I am a final-year PhD student at the University of Washington, advised by [Yejin Choi](https://yejinc.github.io/) and [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). I was a visiting researcher at Meta FAIR (Fundamental AI Research), Superintelligence Labs from 2023–2025.
 
-See full-sized image [here](images/Sclar_Melanie_large.jpg).
+My research focuses on robust reasoning[^1] in language models—both developing algorithms to improve reasoning capabilities and rigorously characterizing models' skills and performance variance. Some of my work focuses particularly on theory of mind reasoning, with experience spanning from LLMs to multi-agent RL setups.
+
+See my [Google Scholar](https://scholar.google.com/citations?user=4uNPtZgAAAAJ&hl=en&oi=ao) for publications, including an **ACL 2023 Outstanding Paper Award**, NeurIPS 2023 Spotlight, and ICLR & COLM 2025 Orals.
+
+Before grad school, I spent four years in industry doing NLP, and was both a **mathematics olympiad champion and Latin America champion of the ICPC (International Collegiate Programming Contest)** among other awards.
+
+[^1]: I know, I know, everyone says this nowadays. But I swear I was doing this before it was cool!
 
 <br/>
 
-## Before the PhD program
+## Before the PhD program -- written in 2020
 
 I received my Bachelor's and Master's degree in Computer Science from the University of Buenos Aires, with a heavy focus in Mathematics. I did my Master's thesis in visual search modeling (**oral presentation at SVRHM @ NeurIPS 2020, second-highest scoring paper** and recipient of the NVIDIA Diversity in AI Best Paper Award).
 
@@ -38,3 +44,13 @@ I am very grateful for the **scholarships** I received throughout my studies:
 - *Bicentennial Scholarship*, received from the National Argentinian Government
 
 Besides Math and CS, I love **languages** and **teaching**. I speak Spanish, English, French and Portuguese, and was a teaching assistant at the University of Buenos Aires for over 3 years. I've also been a coach for mathematics olympiads, both in schools and as a private tutor.
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var footnotes = document.querySelector('.footnotes');
+  var heading = document.querySelector('h2');
+  if (footnotes && heading) {
+    heading.parentNode.insertBefore(footnotes, heading);
+  }
+});
+</script>
