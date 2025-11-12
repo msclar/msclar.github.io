@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am currently on the industry job market for 2025-2026!** I'm particularly interested in building reliable and socially-aware AI systems.
+**I am currently on the industry job market for 2025-2026!** I'm particularly interested in building robust and socially-aware AI systems.
 
 I am a final-year PhD student at the University of Washington, advised by [Yejin Choi](https://yejinc.github.io/) and [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). I was a visiting researcher at Meta FAIR (Fundamental AI Research), Superintelligence Labs from 2023–2025.
 
@@ -16,7 +16,7 @@ My research focuses on robust reasoning[^1] in language models—both developing
 
 See my [Google Scholar](https://scholar.google.com/citations?user=4uNPtZgAAAAJ&hl=en&oi=ao) for publications, including an **ACL 2023 Outstanding Paper Award**, NeurIPS 2023 Spotlight, and ICLR & COLM 2025 Orals.
 
-Before grad school, I spent four years in industry doing NLP, and was both a **mathematics olympiad champion and Latin America champion of the ICPC (International Collegiate Programming Contest)** among other awards.
+Before grad school, I spent four years in industry doing NLP, and was both a **mathematics olympiad champion and Latin America champion of the ICPC** (International Collegiate Programming Contest) among other awards.
 
 [^1]: I know, I know, everyone says this nowadays. But I swear I was doing this before it was cool!
 
