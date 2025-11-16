@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am currently on the industry job market for 2025-2026!** I'm particularly interested in building robust and socially-aware AI systems.
+**I am currently on the industry job market for 2025-2026!**
 
 I am a final-year PhD student at the University of Washington, advised by [Yejin Choi](https://yejinc.github.io/) and [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). I was a visiting researcher at Meta FAIR (Fundamental AI Research), Superintelligence Labs from 2023–2025.
 
