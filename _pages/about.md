@@ -16,7 +16,7 @@ My research focuses on robust reasoning[^1] in language models—both developing
 
 See my [Google Scholar](https://scholar.google.com/citations?user=4uNPtZgAAAAJ&hl=en&oi=ao) for publications, including an **ACL 2023 Outstanding Paper Award**, NeurIPS 2023 Spotlight, and ICLR & COLM 2025 Orals.
 
-Before grad school, I spent four years in industry doing NLP, and was both a **mathematics olympiad champion and Latin America champion of the ICPC** (International Collegiate Programming Contest) among other awards.
+Before grad school, I worked several years as a machine learning engineer, and was both a **mathematics olympiad champion and Latin America champion of the ICPC** (International Collegiate Programming Contest) among other awards.
 
 [^1]: I know, I know, everyone says this nowadays. But I swear I was doing this before it was cool!
 
