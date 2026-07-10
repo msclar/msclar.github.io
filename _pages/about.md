@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**I am currently on the industry job market!**
-
 I am a Research Scientist at Meta Superintelligence Labs, FAIR (Fundamental AI Research) working on LLM pretraining. 
 
-Before that, I was a PhD student at the University of Washington, advised by [Yejin Choi](https://yejinc.github.io/) and [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). My PhD research focused on robust reasoning[^1] in language models—both developing algorithms to improve reasoning capabilities and rigorously characterizing models' skills and performance variance. Some of my work focuses particularly on theory of mind reasoning, with experience spanning from LLMs to multi-agent RL setups.
+Before that, I was a PhD student at the University of Washington, advised by [Yejin Choi](https://yejinc.github.io/) and [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). My PhD research focused on robust reasoning[^1] in language models—both developing algorithms to improve reasoning capabilities and rigorously characterizing models' skills and performance variance. Some of my work focused particularly on theory of mind reasoning, with experience spanning from LLMs to multi-agent RL setups.
 
 See my [Google Scholar](https://scholar.google.com/citations?user=4uNPtZgAAAAJ&hl=en&oi=ao) for publications, including an **ACL 2023 Outstanding Paper Award**, NeurIPS 2023 Spotlight, and ICLR & COLM 2025 Orals.
 
